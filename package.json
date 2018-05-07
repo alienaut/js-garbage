@@ -1,0 +1,22 @@
+{
+  "name": "js-garbage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "null",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alienaut/js-garbage.git"
+  },
+  "author": "yusufyalim@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alienaut/js-garbage/issues"
+  },
+  "homepage": "https://github.com/alienaut/js-garbage#readme",
+  "dependencies": {
+    "random-number": "0.0.9"
+  }
+}
